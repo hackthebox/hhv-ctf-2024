@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='../../../assets/logo_htb.png' alt="HTB">
+  <img src='assets/logo_htb.png' alt="HTB">
 </p>
 
 # [__Challenges__](#challenges)
